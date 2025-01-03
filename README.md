@@ -2,8 +2,9 @@
 
 I'm a second year Master’s student from [School of CTA](https://cs.qhu.edu.cn/), [Qinghai University](https://www.qhu.edu.cn/). I supervised by Prof. [Jianqiang Huang(黄建强)](https://www.qhu-hdacp.cn/hjq.html) and Prof. [Zhan Wang(王展)](https://www.qhuah.com/html/2748691352.html)
 
-- 🔭 I’m currently learning on Computer Vision, Medical Image Segmentation and Hepatic Echinococcosis.
-- 
+- 🌱 I’m currently learning on Computer Vision, Medical Image Segmentation and Hepatic Echinococcosis.
+- 📫 How to reach me: JethronChen@163.com
+- 🏠 There is my homepage: https://chenjiayan-qhu.github.io/
 <!--
 **chenjiayan-qhu/chenjiayan-qhu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
