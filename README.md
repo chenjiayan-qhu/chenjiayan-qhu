@@ -7,7 +7,7 @@ I'm a second year Master’s student from [School of CTA](https://cs.qhu.edu.cn/
 
 - 🌱 I’m currently learning on Computer Vision, Medical Image Segmentation and Hepatic Echinococcosis.
 - 📫 How to reach me: JethronChen@163.com
-- 🏠 There is my homepage: https://chenjiayan-qhu.github.io/
+- 🏠 There is my homepage: www.jiayan.online
 <!--
 **chenjiayan-qhu/chenjiayan-qhu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
