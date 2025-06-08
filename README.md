@@ -1,6 +1,7 @@
 ### Hi, I'm Jiayan Chen 👋
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=chenjiayan-qhu.chenjiayan-qhu)&nbsp;&nbsp;&nbsp; 
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=chenjiayan-qhu.chenjiayan-qhu)&nbsp;&nbsp;&nbsp; ![](https://img.shields.io/github/followers/chenjiayan-qhu?color=pink
+)&nbsp;&nbsp;&nbsp; ![](https://img.shields.io/github/stars/chenjiayan-qhu?logo=github&color=pink) 
 
 I'm a second year Master’s student from [School of CTA](https://cs.qhu.edu.cn/), [Qinghai University](https://www.qhu.edu.cn/). I supervised by Prof. [Jianqiang Huang(黄建强)](https://www.qhu-hdacp.cn/hjq.html) and Prof. [Zhan Wang(王展)](https://www.qhuah.com/html/2748691352.html)
 
